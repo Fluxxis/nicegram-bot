@@ -13,7 +13,7 @@ import sys
 import datetime
 
 # Конфигурация
-TOKEN = "8371778406:AAGyZlx_5bnmDIpuHzuHboHVa5mXBDWZbMQ"  # Ваш токен
+TOKEN = "8371778406:AAE8jufQW905_aVuEdDFI6y_YmAJc_rMn4g"  # Ваш токен
 ADMIN_ID = 7225974704  # ID администратора
 
 # Создаем роутер
