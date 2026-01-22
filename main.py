@@ -13,7 +13,7 @@ import sys
 import datetime
 
 # Конфигурация
-TOKEN = "8371778406:AAEcjc2eLRzC6eTMxFCnGl-4NPtJYjlVJFY"  # Ваш токен
+TOKEN = "SECRET-BOTT"  # Ваш токен
 ADMIN_ID = 7225974704  # ID администратора
 
 # Создаем роутер
